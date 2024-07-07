@@ -1,0 +1,1 @@
+# evaluacion-democracia-liberal-polonia Data analysis project with the objective of learning Big Data and Datascience as well as probability and statistics and graphing in RSTUDIO autor: Miguel Angel Reyna Davila
